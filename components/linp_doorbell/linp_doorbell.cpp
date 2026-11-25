@@ -1,6 +1,7 @@
 #include "linp_doorbell.h"
 #include "esphome/core/log.h"
 #include "esphome/core/application.h"
+#include "esphome/core/alloc_helpers.h"
 
 #include "driver/uart.h"
 //#include "driver/gpio.h"
